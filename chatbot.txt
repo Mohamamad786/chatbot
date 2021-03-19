@@ -1,0 +1,10 @@
+print("Welcome to Mohammad Chatbot")
+print("I will repeat after you.")
+
+stuff_to_echo = input("Enter something for me to repeat: ")
+
+print("You said: " + stuff_to_echo)
+
+stuff_to_echo = input("Enter your username: ")
+
+print("Your Username: " + stuff_to_echo)
